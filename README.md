@@ -1,0 +1,2 @@
+# prog-python-alapok
+zulul
